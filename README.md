@@ -2,7 +2,7 @@
 
 
 ### About
- I'm a Web Developerm. and,  I'm studying at [Rocketseat](https://www.rocketseat.com.br/)
+ I'm a Web Developerm, studying at [Rocketseat](https://www.rocketseat.com.br/)
 
 ### Current stack
 - :zap: Main Language: `javascript`
