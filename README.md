@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there, I'm Eduardo De Lima 👋
 
-<!--
-**Eduardoex/Eduardoex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### About
+ I'm a Web Developerm. and,  I'm studying at [Rocketseat](https://www.rocketseat.com.br/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current stack
+- :zap: Main Language: `javascript`
+- :tada: Frontend: `HTML5` `CSS3`
+- :green_heart: Layout Desing: `Figma`
+- :hammer: Tools: `VsCode`
+
+### Contacts 
+- :card_file_box: Email: eduardodelimaex@gmail.com
+
+
+
+
+
+
