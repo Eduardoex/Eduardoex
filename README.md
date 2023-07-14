@@ -6,7 +6,7 @@
 
 ### Current stack
 - :zap: Main Language: `javascript`
-- :tada: Frontend: `HTML5` `CSS3` `javascript` `React ` `Node`
+- :tada: Frontend & Backend: `HTML5` `CSS3` `javascript` `React ` `Node`
 - :green_heart: Layout Desing: `Figma`
 - :hammer: Tools: `VsCode`
 
